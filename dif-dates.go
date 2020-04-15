@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	start := time.Date(2021,4,14,18,0,0, 0, time.UTC)
+	start := time.Date(1920,4,14,18,0,0, 0, time.UTC)
 
 	fmt.Println(start)
 	fmt.Println(time.Now())
